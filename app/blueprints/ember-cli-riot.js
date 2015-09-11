@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-riot/blueprints/ember-cli-riot';
